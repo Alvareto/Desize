@@ -1,0 +1,26 @@
+.btn {
+  display: inline-block;
+  margin-bottom: 0;
+  color: black;
+  text-align: center;
+  font-weight: 2;
+  vertical-align: middle;
+  cursor: pointer;
+  box-shadow: 1px 1px 1px 1px #fff;
+  border: 0px;
+  border-radius: 0;
+  /**/
+  height: 30px;
+  width: 120px;
+}
+  .btn:hover {   
+    text-decoration: none;
+    background-color: silver;
+  }
+
+  .btn:active {
+    left:-1px;
+    top:-1px;
+    height: 32px;
+    outline: 0;    
+  }
