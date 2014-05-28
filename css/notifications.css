@@ -1,0 +1,45 @@
+.notification.error {
+		width: 496px;
+		height: 38px;
+
+		border: 1px black;
+		/*border-radius: 1px;*/
+		box-shadow: 1px 0px 1px 2px #fff;
+		position: absolute;
+		top: 30px;
+		left: 30%;
+
+		color: #141823;
+		font-family: Helvetica, Arial;
+	}
+		.notification.error .content {
+			position: relative;
+			border: 0;
+			padding-left: 40px;
+			/*margin-bottom: 12px;*/
+			height: 100%;
+			background-color: #D82A29;
+		}
+			.notification.error .content .icon {
+				font-weight: 700;
+				font-size: 20px;
+				line-height: 20px;
+				color: white;
+				position: absolute;
+				margin-left: -23px;
+				margin-top: 9px;
+				height: 18px;
+				width: 18px;
+			}
+			.notification.error .content .text {
+				width: 416px;
+				height: 20px;
+				background-color: white;
+				position: absolute;
+				background: #fff;
+				margin: 0;
+				padding: 9px 30px 9px 10px;
+
+				font-size: 14px;
+				line-height: 18px;
+			}
