@@ -5,7 +5,7 @@ Desize framework, best of the web joined together by the forces of
 ## Flat Collection
 * CSS-only loaders
 * Buttons
-* Notification bars with icons (<b>NEW!</b>)
+* Notification bars with icons
 * Text manipulation (<b>NEW!</b>)
 
 ## Credits
